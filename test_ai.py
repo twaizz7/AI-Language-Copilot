@@ -1,7 +1,7 @@
 import dashscope
 from dashscope import Generation
 
-dashscope.api_key = "sk-cda7ce93c0054a49976f260a875bb472"
+dashscope.api_key = "change for your using API"
 
 while True:
     user_input = input("请输入一句英文（输入exit退出）：")
